@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phpdias
-- 👀 I’m interested in be a better coder (?) I don't know what to write here
-- 🌱 I’m currently learning Algorithms and Data Structure and Programming for Mobile Devices
-- 💞️ I’m looking to collaborate on nothing (or all)
+- 👀 I’m interested in Computer Engineering, Programming, IoT, Crypto and everything related to technology
+- 🌱 I’m currently learning Algorithms and Data Structure
+- 💞️ I'm looking to collaborate on everything
 - 📫 How to reach me -> e-mail: phpdias@outlook.com // Telegram: @phpdias
 
 <!---
